@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+VisualizerInstrument
+VisualizerInstrument.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-i586.jar,gluegen-rt-natives-windows-i586.jar,LeapJava.jar,LeapMotionForProcessing.jar,jl1.0.jar,jsminim.jar,minim.jar,mp3spi1.9.4.jar,tritonus_aos.jar,tritonus_share.jar
