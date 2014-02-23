@@ -8,10 +8,6 @@ import netP5.*;
 
 import java.lang.reflect.*;
 
-import ddf.minim.*;
-import ddf.minim.analysis.*;
-
-
 PeasyCam cam;
 OscP5 oscP5;
 ReactiveSF voice1 = new ReactiveSF(),
